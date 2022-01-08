@@ -1,9 +1,8 @@
 # Hi 👋, I am Israel
-follow me on my facebook account ![facebook Follow](https://web.facebook.com/nnamchi.israel.1/)<br>
-or our official facebook page
-![page Follow](https://web.facebook.com/phaxadstudio/)
 
-**What am I?** I'm a software developer, graphic designer, cyber-security expert and a data-scientist.
+
+ I'm a software developer, graphic designer, cyber-security expert and a data-scientist studying at the University of Nigeria (UNN).
+ The CEO of Apaxaa Studios Inc and it's cooperated branches
 
 
 
