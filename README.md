@@ -1,7 +1,7 @@
 # Hi 👋, I am Israel
 
 
- I'm a software developer, graphic designer, cyber-security expert and a data-scientist studying at the University of Nigeria (UNN).
+ I'm a software developer, graphic designer, cyber-security expert and a data-scientist studying at the ESUT (Enugu State University of Science and Technology).
  The CEO of Apaxaa Studios Inc and it's cooperated branches
 
 
