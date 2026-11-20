@@ -51,7 +51,7 @@ My approach is simple: build useful technology, solve meaningful problems, and c
 </td>
 <td align="center" width="25%">
 <a href="https://candleben.com">
-<img src="https://candleben.com/favicon.ico" width="72" height="72" alt="Candleben logo" />
+<img src="https://candleben.com/icon.svg" width="72" height="72" alt="CANDLEBEN logo" />
 <br/><strong>CANDLEBEN</strong>
 </a>
 <br/>
