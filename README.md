@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:4F46E5,100:7C3AED&height=220&section=header&text=Israel%20Nnamchi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Founder%20%7C%20Developer%20%7C%20Technology%20Builder&descSize=17&descAlignY=60" width="100%" alt="Israel Nnamchi banner" />
+
 
 ### Building technology. Creating products. Shaping what comes next.
 
