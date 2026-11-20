@@ -72,7 +72,7 @@ My approach is simple: build useful technology, solve meaningful problems, and c
 ### VERNSA
 **Business Technology & Digital Commerce**
 
-[VERNSA](https://vernsa.com) is a business-focused digital ecosystem designed to help businesses establish their online presence, connect with customers, and participate in a broader digital commerce environment.
+[VERNSA](https://vernsa.com) is a Platform which goal is to enable a global means of transaction , one without stress , cheap, reliable, strong, fast and secured.
 
 ### JOYET
 **Fintech & Digital Payments**
